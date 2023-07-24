@@ -4,7 +4,7 @@ import zipfile
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
-DEFAULT_SPLIT_SIZE_MB = 4650  # 4650 MB
+DEFAULT_SPLIT_SIZE_MB = 4200  # 4200 MB
 
 class ZipApp:
     def __init__(self, root):
